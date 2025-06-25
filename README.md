@@ -4,7 +4,7 @@
 - 🔭 CTFer @天璇Merak
 - 💻 Currently major in Cybersecurity @BUPT(Beijing University of Posts and Telecommunications)
 - 📫 How to reach me: cs.onez3r0@gmail.com
-- 📝 Blog: https://onez3r0.github.io/
+- 📝 Blog: https://blog.onez3r0.top/
 
 ### Things I am interested in
 - 👾 Currently learning WEB
