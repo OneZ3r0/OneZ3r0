@@ -43,5 +43,5 @@
 
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=fff)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
-
+  ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
 
