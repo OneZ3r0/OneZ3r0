@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=800&pause=&color=FFFFFF&background=1C1953&center=true&multiline=true&width=800&height=140&lines=Hi+there+%F0%9F%91%8B+I'm+OneZ3r0;+;A+WEB+CTFer+%F0%9F%9A%A9+in+Merak+%26+Dubhe.;+;+Currently+major+in+Cybersecurity%40BUPT;+;+;+;+;+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=800&pause=&color=FFFFFF&background=1C1953&center=true&multiline=true&width=900&height=140&lines=Hi+there+%F0%9F%91%8B+I'm+OneZ3r0;+;A+WEB+CTFer+%F0%9F%9A%A9+in+Merak+%26+Dubhe.;+;+Currently+major+in+Cybersecurity%40BUPT;+;+;+;+;+" alt="Typing SVG" /></a>
 </p>
 
 ## 🏠 Contact me
